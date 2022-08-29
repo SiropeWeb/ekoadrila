@@ -3,9 +3,8 @@ function botonEus() {
         '<span class="barra">/</span>Nahiz eta gure bidaia amaitu den, Jarrai dezagun lanean!'
     );
     $(".cuando").html(
-        '<span class = "barra" > /</span > Gana una comida o cena < /br> Eme Be Garrote </br > de Martín Berasategui'
+        '<span class="barra">/</span>Irabazi Martin Berasategiren Eme Be Garrote jatetxean bazkari edo afaria'
     );
-
 
     $(".sorteo").text(
         "Zozketa: Bi lagunentzako asteburua Zeanuriko zuhaitzetako txaboletan. Parte hartzeko birziklapenaren testa egin ezazu. Zorte on!"
