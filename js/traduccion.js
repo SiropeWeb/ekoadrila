@@ -204,7 +204,7 @@ function botonEus() {
 }
 
 function botonEs() {
-    jQuery(".cuando").html( <
+    jQuery(".cuando").html(
         '<span class = "barra" > /</span > Gana una comida o cena < br > Eme Be Garrote < br > de Martín Berasategui'
     );
     jQuery(".sorteo").text(
