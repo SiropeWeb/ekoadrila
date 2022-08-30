@@ -205,7 +205,7 @@ function botonEus() {
 
 function botonEs() {
     $(".cuando").html(
-        '<span class = "barra" > /</span > Gana una comida o cena < br > Eme Be Garrote < br > de Martín Berasategui'
+        '<span class="barra"> /</span> Gana una comida o cena Eme Be Garrote de Martín Berasategui'
     );
     $(".sorteo").text(
         "Sorteo de un fin de semana para 2 en las cabañas de los árboles de Zeanuri por completar el test del reciclaje. ¡Suerte!"
