@@ -1,7 +1,7 @@
 function botonEus() {
 
     $(".cuando").html(
-        '<span class="barra">/</span>Irabazi Martin Berasategiren Eme Be Garrote jatetxean bazkari edo afaria'
+        '<span class="barra">/</span>Irabazi bi gau bikoitz Zuhaitzen Etxeko suitean'
     );
     $(".sorteo").text(
         "Zozketa: Bi lagunentzako asteburua Zeanuriko zuhaitzetako txaboletan. Parte hartzeko birziklapenaren testa egin ezazu. Zorte on!"
@@ -16,7 +16,7 @@ function botonEus() {
         "Zozketa: Bi lagunentzako asteburua Donostiako Arima hotelean. Parte hartzeko birziklapenaren testa egin ezazu. Zorte on!"
     );
     $(".sorteo-martin").text(
-        "(Abuztuaren 29tik irailaren 5eko 10:00ak arte zenbatuko dira partaidetzak)"
+        "(Irailaren 6tik 12ra 10:00etan zenbatuko dira partaidetzak)"
     );
     $(".repasar").text("Berrikusi lehenago");
     $(".hacer-test").text("Egin testa");
@@ -167,7 +167,7 @@ function botonEus() {
     /* FORMULARIO EMAIL */
     $(".enhorabuena").text("Zorionak! Amaieraraino iritsi zara");
     $(".ya-solo").text(
-        "Horregatik bakarrik, zozketan sartzea merezi duzu: 2 lagunentzako asteburua Donostiako Arima hotelean. Utzi zure datuak parte hartu ahal izateko."
+        "Horregatik bakarrik, zozketan sartzea merezi duzu: Asteburu bat 2rentzat Zeanuriko zuhaitzetako etxoletan. Utzi zure datuak parte hartu ahal izateko."
     );
     $(".nombre").text("Izena eta abizena*");
     $(".email").text("Emaila*");
@@ -178,7 +178,7 @@ function botonEus() {
     $(".revisa-campos").text("Datuak berrikusi formularioa bidali aurretik.");
     $(".gracias").text("Eskerrik asko parte hartzeagatik!");
     $(".el-sorteo").html(
-        "Zozketa irailaren 2an egingo da.</br>Irabazlea bazara, zurekin harremanetan jarri ahal izango gara.</br>Zorte on!"
+        "Zozketa irailaren 12an egingo da.</br>Irabazlea bazara, zurekin harremanetan jarri ahal izango gara.</br>Zorte on!"
     );
     /*--------------------------------*/
 
@@ -205,7 +205,7 @@ function botonEus() {
 
 function botonEs() {
     $(".cuando").html(
-        '<span class="barra"> /</span> Gana una comida o cena Eme Be Garrote de Martín Berasategui'
+        '<span class="barra"> /</span> Gana dos noches dobles en la suite de la Casa de los Árboles'
     );
     $(".sorteo").text(
         "Sorteo de un fin de semana para 2 en las cabañas de los árboles de Zeanuri por completar el test del reciclaje. ¡Suerte!"
@@ -220,7 +220,7 @@ function botonEs() {
         "Sorteo de un fin de semana para 2 en Hotel Arima de Donosti por completar el test del reciclaje. ¡Suerte!"
     );
     $(".sorteo-martin").text(
-        "(Se contabilizará las participaciones desde el 29 de agosto hasta el 5 de septiembre a las 10:00h)"
+        "(Se contabilizarán las participaciones desde el 6 al 12 de septiembre a las 10:00h)"
     );
     $(".repasar").text("Repasar antes");
     $(".hacer-test").text("Hacer test");
@@ -371,7 +371,7 @@ function botonEs() {
     /* FORMULARIO EMAIL */
     $(".enhorabuena").text("¡Enhorabuena! Has llegado hasta el final");
     $(".ya-solo").text(
-        "Ya solo por eso, te mereces entrar en el sorteazo: fin de semana para 2 en Hotel Arima de Donosti. Déjanos tus datos para participar."
+        "Ya solo por eso, te mereces entrar en el sorteazo: Un fin de semana para 2 en las casa de los árboles de Zeanuri. Déjanos tus datos para participar."
     );
     $(".nombre").text("Nombre y apellido*");
     $(".email").text("Email*");
@@ -383,7 +383,7 @@ function botonEs() {
 
     $(".gracias").text("¡Gracias por participar!");
     $(".el-sorteo").html(
-        "El sorteo se realizará el 2 de septiembre.</br>Si eres la persona ganadora, nos podremos en contacto contigo.</br>¡Suerte!"
+        "El sorteo se realizará el 12 de septiembre.</br>Si eres la persona ganadora, nos podremos en contacto contigo.</br>¡Suerte!"
     );
     /*--------------------------------*/
 
