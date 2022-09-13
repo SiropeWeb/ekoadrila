@@ -1,10 +1,16 @@
 function botonEus() {
 
     $(".cuando").html(
-        '<span class="barra">/</span>Irabazi bi gau bikoitz Zuhaitzen Etxeko suitean'
+        '<span class="barra">/</span>Irabazi ezazu Marqués de Riscal Luxuzko hotelean asteburu bat gosaria, spa eta upeltegira bisitarekin.'
     );
     $(".sorteo").text(
         "Zozketa: Bi lagunentzako asteburua Zeanuriko zuhaitzetako txaboletan. Parte hartzeko birziklapenaren testa egin ezazu. Zorte on!"
+    );
+        $(".sorteo-riscal").text(
+        "Zozketa: Bi pertsonentzako asteburu ezin hobea Arabar Errioxako Marqués de Riscal upeltegian"
+    );
+        $(".sorteo-riscal2").text(
+        "(Irailaren 13tik 19ra 10:00etan zenbatuko dira partaidetzak)"
     );
     $(".sorteo-flysch").text(
         "Zozketa: Bi lagunentzako itsasontzi ibilbidea Gipuzkoako Flyschetan. Parte hartzeko birziklapenaren testa egin ezazu. Zorte on!"
@@ -205,11 +211,19 @@ function botonEus() {
 
 function botonEs() {
     $(".cuando").html(
-        '<span class="barra"> /</span> Gana dos noches dobles en la suite de la Casa de los Árboles'
+        '<span class="barra"> /</span>Gana un fin de semana en el Hotel de Marqués de Riscal con desayuno, spa y visita a la bodega'
     );
     $(".sorteo").text(
         "Sorteo de un fin de semana para 2 en las cabañas de los árboles de Zeanuri por completar el test del reciclaje. ¡Suerte!"
     );
+    
+    $(".sorteo-riscal").text(
+        "Sorteamos una experiencia única para dos personas durante un fin de semana en la bodega Marqués de Riscal de Rioja Alavesa."
+    );
+        $(".sorteo-riscal2").text(
+        "(Se contabilizarán las participaciones desde el 13 al 19 de septiembre a las 10:00h)"
+    );
+    
     $(".sorteo-flysch").text(
         "Sorteo de una ruta en barco para 2 por los Flysch de Gipuzkoa por completar el test del reciclaje. ¡Suerte!"
     );
