@@ -184,7 +184,7 @@ function botonEus() {
     $(".revisa-campos").text("Datuak berrikusi formularioa bidali aurretik.");
     $(".gracias").text("Eskerrik asko parte hartzeagatik!");
     $(".el-sorteo").html(
-        "Zozketa irailaren 12an egingo da.</br>Irabazlea bazara, zurekin harremanetan jarri ahal izango gara.</br>Zorte on!"
+        "Zozketa irailaren 19an egingo da.</br>Irabazlea bazara, zurekin harremanetan jarri ahal izango gara.</br>Zorte on!"
     );
     /*--------------------------------*/
 
@@ -397,7 +397,7 @@ function botonEs() {
 
     $(".gracias").text("¡Gracias por participar!");
     $(".el-sorteo").html(
-        "El sorteo se realizará el 12 de septiembre.</br>Si eres la persona ganadora, nos podremos en contacto contigo.</br>¡Suerte!"
+        "El sorteo se realizará el 19 de septiembre.</br>Si eres la persona ganadora, nos podremos en contacto contigo.</br>¡Suerte!"
     );
     /*--------------------------------*/
 
