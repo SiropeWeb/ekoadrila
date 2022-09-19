@@ -1,7 +1,7 @@
 function botonEus() {
 
     $(".cuando").html(
-        '<span class="barra">/</span>Irabazi ezazu Marqués de Riscal Luxuzko hotelean asteburu bat gosaria, spa eta upeltegira bisitarekin.'
+        '<span class="barra">/</span>Gure bidaia amaitu bada ere, Segi lanean!'
     );
     $(".sorteo").text(
         "Zozketa: Bi lagunentzako asteburua Zeanuriko zuhaitzetako txaboletan. Parte hartzeko birziklapenaren testa egin ezazu. Zorte on!"
@@ -12,6 +12,9 @@ function botonEus() {
     );
     
 
+    $(".riscal").html(
+        '<span class="barra">/</span>Irabazi ezazu Marqués de Riscal Luxuzko hotelean asteburu bat gosaria, spa eta upeltegira bisitarekin.'
+    );
     
         $(".sorteo-riscal").text(
         "Zozketa: Bi pertsonentzako asteburu ezin hobea Arabar Errioxako Marqués de Riscal upeltegian"
@@ -218,7 +221,7 @@ function botonEus() {
 
 function botonEs() {
     $(".cuando").html(
-        '<span class="barra"> /</span>Gana un fin de semana en el Hotel de Marqués de Riscal con desayuno, spa y visita a la bodega'
+        '<span class="barra"> /</span>Aunque nuestro viaje haya terminado, ¡sigamos trabajando!'
     );
     $(".sorteo").text(
         "Sorteo de un fin de semana para 2 en las cabañas de los árboles de Zeanuri por completar el test del reciclaje. ¡Suerte!"
@@ -228,7 +231,9 @@ function botonEs() {
         "Nos da mucha pena que el viaje termine, pero estamos súper contentxs por todo lo que hemos conseguido. ¡Gracias por vuestro compromiso!"
     );
     
-    
+      $(".riscal").html(
+        '<span class="barra"> /</span>Gana un fin de semana en el Hotel de Marqués de Riscal con desayuno, spa y visita a la bodega'
+    );  
     $(".sorteo-riscal").text(
         "Sorteamos una experiencia única para dos personas durante un fin de semana en la bodega Marqués de Riscal de Rioja Alavesa."
     );
