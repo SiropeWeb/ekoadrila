@@ -6,6 +6,13 @@ function botonEus() {
     $(".sorteo").text(
         "Zozketa: Bi lagunentzako asteburua Zeanuriko zuhaitzetako txaboletan. Parte hartzeko birziklapenaren testa egin ezazu. Zorte on!"
     );
+    
+        $(".sorteo-final").text(
+        "Pena handia ematen digu bidaia amaitzeak, baina oso pozik gaude lortu dugun guztiagatik. Eskerrik asko zuen konpromisoagatik!"
+    );
+    
+
+    
         $(".sorteo-riscal").text(
         "Zozketa: Bi pertsonentzako asteburu ezin hobea Arabar Errioxako Marqués de Riscal upeltegian"
     );
@@ -216,6 +223,11 @@ function botonEs() {
     $(".sorteo").text(
         "Sorteo de un fin de semana para 2 en las cabañas de los árboles de Zeanuri por completar el test del reciclaje. ¡Suerte!"
     );
+    
+           $(".sorteo-final").text(
+        "Nos da mucha pena que el viaje termine, pero estamos súper contentxs por todo lo que hemos conseguido. ¡Gracias por vuestro compromiso!"
+    );
+    
     
     $(".sorteo-riscal").text(
         "Sorteamos una experiencia única para dos personas durante un fin de semana en la bodega Marqués de Riscal de Rioja Alavesa."
