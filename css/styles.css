@@ -1246,6 +1246,10 @@ a#facebook {
   margin-bottom: 50px;
 }
 
+.loc-euskadi li .texto15 {
+    font-size: 15px;
+  }
+
 @media screen and (min-width: 768px) {
   .loc-euskadi li {
     width: 33%;
