@@ -1251,7 +1251,8 @@ a#facebook {
     width: 33%;
     padding: 20px;
   }
-  .loc-euskadi li:nth-child(2) .loc-euskadi li:first-child {
+  .loc-euskadi li:nth-child(2),
+   .loc-euskadi li:first-child {
     width: 50%;
   }
 }
