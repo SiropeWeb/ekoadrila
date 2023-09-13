@@ -1,16 +1,99 @@
 function botonEus() {
 
     $(".cuando").html(
-        '<span class="barra">/</span>Gure bidaia amaitu bada ere, Segi lanean!'
+        '<span class="barra">/ </span>Ekoadrila bueltan da!'
     );
     $(".sorteo").text(
         "Zozketa: Bi lagunentzako asteburua Zeanuriko zuhaitzetako txaboletan. Parte hartzeko birziklapenaren testa egin ezazu. Zorte on!"
     );
     
         $(".sorteo-final").text(
-        "Pena handia ematen digu bidaia amaitzeak, baina oso pozik gaude lortu dugun guztiagatik. Eskerrik asko zuen konpromisoagatik!"
+        "Beti bezala, Detergenteberri, Fraskobide eta Kajagurenen eskutik! Inoiz baino gogotsuago gatoz Euskadin birziklapena sustatzeko eta pertsona guztiak kontzientziatzeko ontziei bigarren erabilera bat ematearen garrantziaz."
     );
     
+
+    $(".sigue").text(
+        "Aurten 5 kokalekutan ikusi ahal izango gaituzu Euskadin"
+    );
+
+    $(".loc1-tit").text(
+        "Bilbo"
+    );
+
+    $(".loc1-date").text(
+        "Irailak 22"
+    );
+    $(".loc1-txt").text(
+        "Goizean Zazpikaleko metro irteeran egongo gara eta arratsaldean Arriaga ondoko Azokan."
+    );
+
+    
+    $(".loc2-tit").text(
+        "Irun"
+    );
+
+    $(".loc2-date").text(
+        "Irailak 24"
+    );
+    $(".loc2-txt").text(
+        ""
+    );
+
+    $(".loc3-tit").text(
+        "Gasteiz"
+    );
+
+    $(".loc3-date").text(
+        "Irailak 29"
+    );
+    $(".loc3-txt").text(
+        "Goizean autobus geltokiaren irteeran egongo gara eta arratsaldean Azokan"
+    );
+
+    $(".loc4-tit").text(
+        "Gasteiz"
+    );
+
+    $(".loc4-date").text(
+        "Irailak 30"
+    );
+    $(".loc4-txt").text(
+        "Azokan izango gara goizean eta arratsaldean Amara-Anoetan."
+    );
+    $(".loc5-tit").text(
+        "Bermeo"
+    );
+
+    $(".loc5-date").text(
+        "Urriak 1"
+    );
+    $(".loc5-txt").text(
+        ""
+    );
+
+    $(".claim-redes").text(
+        "Etorri gurekin opari bat eramateko"
+    );
+
+    $(".siguenos-quote").text(
+        "Gainera, gure sare sozialetako profiletan zozketak egingo ditugu, albisteak argitaratuko ditugu eta dituzuen zalantza guztiak argituko ditugu; beraz, oraindik jarraitzen ez badiguzu , ez itxaron gehiago!"
+    );
+
+    
+    $(".pre-title").text(
+        "Euskadin asko eta ondo birziklatzen dugu. Eutsi horrela!"
+    );
+    $(".pre-text").html(
+        "Ontzi bat birziklatzera botatzen duzun bakoitzean (eta, batez ere, bere edukiontzi egokira botatzen duzun bakoitzean), bigarren bizitza bat ematen diozo. Gainera, kutsadura murriztu eta gure ingurunea babesten laguntzen duzu.<br><br>Eta hori egiten oso ondo dakigu hemen.   "
+    );
+    $(".thx-reciclar").text(
+        "Eskerrik asko Euskadiko familia guztiei birziklatzeagatik!"
+    );
+   
+    
+   
+    
+
 
     $(".riscal").html(
         '<span class="barra">/</span>Irabazi ezazu Marqués de Riscal Luxuzko hotelean asteburu bat gosaria, spa eta upeltegira bisitarekin.'
@@ -220,17 +303,99 @@ function botonEus() {
 }
 
 function botonEs() {
+
     $(".cuando").html(
-        '<span class="barra"> /</span>Aunque nuestro viaje haya terminado, ¡sigamos trabajando!'
+        '<span class="barra">/ </span>¡La Ekoadrila está de vuelta!'
     );
     $(".sorteo").text(
         "Sorteo de un fin de semana para 2 en las cabañas de los árboles de Zeanuri por completar el test del reciclaje. ¡Suerte!"
     );
     
-           $(".sorteo-final").text(
-        "Nos da mucha pena que el viaje termine, pero estamos súper contentxs por todo lo que hemos conseguido. ¡Gracias por vuestro compromiso!"
+        $(".sorteo-final").text(
+        "Como siempre, de la mano de Detergenteberri, Fraskobide y Kajaguren! Volvemos con más ganas que nunca para fomentar el reciclaje en Euskadi y concienciar a todas las personas sobre la importancia de dar un segundo uso a los envases."
     );
     
+
+    $(".sigue").text(
+        "Este año nos podrás ver en 5 diferentes ubicaciones dentro de Euskadi"
+    );
+
+    $(".loc1-tit").text(
+        "Bilbao"
+    );
+
+    $(".loc1-date").text(
+        "22 de septiembre (pendiente horario)"
+    );
+    $(".loc1-txt").text(
+        "Por la mañana estaremos en la salida de metro de Zazpikaleak y a la tarde en la Azoka junto al Arriaga."
+    );
+
+    
+    $(".loc2-tit").text(
+        "Irún"
+    );
+
+    $(".loc2-date").text(
+        "24 de septiembre"
+    );
+    $(".loc2-txt").text(
+        "(Pendiente donde y horario)"
+    );
+
+    $(".loc3-tit").text(
+        "Gasteiz"
+    );
+
+    $(".loc3-date").text(
+        "29 de septiembre"
+    );
+    $(".loc3-txt").text(
+        "Por la mañana estaremos en la salida de la estación de autobuses y por la tarde en la Azoka (Pendiente donde y horario)"
+    );
+
+    $(".loc4-tit").text(
+        "Donosti"
+    );
+
+    $(".loc4-date").text(
+        "30 de septiembre"
+    );
+    $(".loc4-txt").text(
+        "Estaremos en la azoka por la mañana y a la tarde en Amara-Anoeta. (Pendiente donde y horario)"
+    );
+    $(".loc5-tit").text(
+        "Bermeo"
+    );
+
+    $(".loc5-date").text(
+        "1 de octubre"
+    );
+    $(".loc5-txt").text(
+        "(Pendiente donde y horario)"
+    );
+
+    $(".claim-redes").text(
+        "Ven a vernos para llevarte un regalo "
+    );
+
+    $(".siguenos-quote").text(
+        "Además, en nuestro perfiles haremos sorteos, publicaremos noticias y resolveremos todas las dudas que tengáis, ¡así que si todavía no nos sigues, no esperes más!"
+    );
+
+    
+    $(".pre-title").text(
+        "En Euskadi reciclamos mucho y reciclamos bien. ¡Sigamos así!"
+    );
+    $(".pre-text").html(
+        "Cada vez que echas un envase a reciclar (y, sobre todo, cada vez que lo echas en su contenedor correcto), le estás dando una segunda vida. Además, reduces la contaminación y ayudas a proteger nuestro entorno.<br><br>Y eso aquí, lo sabemos hacer muy bien."
+    );
+    $(".thx-reciclar").text(
+        "¡Eskerrik asko a todas las familias de Euskadi por reciclar!"
+    );
+   
+    
+
       $(".riscal").html(
         '<span class="barra"> /</span>Gana un fin de semana en el Hotel de Marqués de Riscal con desayuno, spa y visita a la bodega'
     );  
