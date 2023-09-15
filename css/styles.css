@@ -548,10 +548,11 @@ header {
 
 #mapa {
   background: #052350;
-  min-height: 100vh;
+  
   width: 100%;
   padding: 100px 50px;
 }
+#mapa-imagen-fechas {align-items: center;}
 
 #mapa-texto {
   margin-bottom: 50px;
