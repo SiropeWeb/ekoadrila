@@ -552,7 +552,7 @@ header {
   width: 100%;
   padding: 100px 50px;
 }
-#mapa-imagen-fechas {align-items: center;}
+
 
 #mapa-texto {
   margin-bottom: 50px;
@@ -565,7 +565,7 @@ header {
 
 #mapa-imagen-fechas {
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: center;
 }
 
 #mapa-imagen {
