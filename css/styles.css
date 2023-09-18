@@ -105,13 +105,13 @@ iframe {
 }
 
 body {
-  font-family: "NeulisAlt-Light";
+  font-family: 'NeulisAlt-Light';
 }
 
 h1,
 h2,
 h3 {
-  font-family: "NeulisAlt-ExtraBold';
+  font-family: 'NeulisAlt-ExtraBold';
   color: #052350;
 }
 
@@ -128,7 +128,7 @@ h3 {
 }
 
 p {
-  font-family: "NeulisAlt-Light";
+  font-family: 'NeulisAlt-Light';
   color: #052350;
   font-size: 18px;
 }
@@ -138,24 +138,24 @@ a {
 }
 
 .bold {
-  font-family: "NeulisAlt-Light";
+  font-family: 'NeulisAlt-SemiBold';
 }
 
 .light {
-  font-family: "NeulisAlt-LightItalic";
+  font-family: 'NeulisAlt-LightItalic';
 }
 
 span.barra {
-  font-family: "NeulisAlt-SemiBold";
+  font-family: 'NeulisAlt-SemiBold';
 }
 
 .italic {
-  font-family: "NeulisAlt-Light" !important;
+  font-family: 'NeulisAlt-Light' !important;
 }
 
 h3.light-italic,
 p.light-italic {
-  font-family: "NeulisAlt-LightItalic";
+  font-family: 'NeulisAlt-LightItalic';
 }
 
 .rombo {
@@ -163,7 +163,7 @@ p.light-italic {
   background: #052350;
   padding: 10px 20px;
   color: white;
-  font-family: "NeulisAlt-Light";
+  font-family: 'NeulisAlt-Light';
   font-size: 16px !important;
   -webkit-transform: skew(-15deg);
   -moz-transform: skew(-15deg);
@@ -182,9 +182,6 @@ button.rombo {
 .movimiento:hover {
   top: -3px;
 }
-
-
-
 
 
 .verde {
