@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'NeulisAlt-ExtraBold';
-  src:url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.woff') format('woff'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.woff2') format('woff2'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.eot'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.eot?#iefix') format('embedded-opentype'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.otf') format('truetype');
+  src: url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.woff') format('woff'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.woff2') format('woff2'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.eot'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.otf') format('truetype');
 
   font-weight: normal;
   font-style: normal;
@@ -13,11 +13,11 @@
 
 @font-face {
   font-family: 'NeulisAlt-SemiBold';
-  src:url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.woff') format('woff'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.woff2') format('woff2'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.eot'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.eot?#iefix') format('embedded-opentype'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.otf') format('truetype');
+  src: url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.woff') format('woff'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.woff2') format('woff2'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.eot'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.otf') format('truetype');
 
   font-weight: normal;
   font-style: normal;
@@ -27,10 +27,10 @@
 @font-face {
   font-family: "NeulisAlt-SemiBoldItalic";
   src: url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.woff') format('woff'),
-url('https://ekoadrila.eus/fonts//NeulisAlt-SemiBoldItalic.woff2') format('woff2'),
-url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.eot'),
-url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
-url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.otf') format('truetype');
+    url('https://ekoadrila.eus/fonts//NeulisAlt-SemiBoldItalic.woff2') format('woff2'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.eot'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.otf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -38,11 +38,11 @@ url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.otf') format('truetype
 
 @font-face {
   font-family: 'NeulisAlt-Light';
-  src:url('https://ekoadrila.eus/fonts/NeulisAlt-Light.woff') format('woff'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-Light.woff2') format('woff2'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-Light.eot'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-Light.eot?#iefix') format('embedded-opentype'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-Light.otf') format('truetype');
+  src: url('https://ekoadrila.eus/fonts/NeulisAlt-Light.woff') format('woff'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-Light.woff2') format('woff2'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-Light.eot'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-Light.eot?#iefix') format('embedded-opentype'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-Light.otf') format('truetype');
 
   font-weight: normal;
   font-style: normal;
@@ -51,11 +51,11 @@ url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.otf') format('truetype
 
 @font-face {
   font-family: 'NeulisAlt-LightItalic';
-  src:url('NeulisAlt-LightItalic.woff') format('woff'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.woff2') format('woff2'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.eot'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.eot?#iefix') format('embedded-opentype'),
-        url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.otf') format('truetype');
+  src: url('NeulisAlt-LightItalic.woff') format('woff'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.woff2') format('woff2'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.eot'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.eot?#iefix') format('embedded-opentype'),
+    url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.otf') format('truetype');
 
   font-weight: normal;
   font-style: normal;
@@ -263,17 +263,15 @@ header {
 }
 
 #hero {
-  background: rgb(126, 236, 245);
-  background: linear-gradient(
-    105deg,
-    rgba(126, 236, 245, 1) 0%,
-    rgba(126, 236, 245, 1) 25%,
-    rgba(252, 250, 115, 1) 25%,
-    rgba(252, 250, 115, 1) 50%,
-    rgba(252, 250, 115, 1) 75%,
-    rgba(203, 253, 149, 1) 75%,
-    rgba(203, 253, 149, 1) 100%
-  );
+  background: rgb(89, 252, 252);
+  background: linear-gradient(105deg,
+  rgba(126, 236, 245, 1) 0%,
+  rgba(126, 236, 245, 1) 25%,
+  rgba(255, 245, 64, 1) 25%,
+  rgba(255, 245, 64, 1) 50%,
+  rgba(255, 245, 64, 1) 75%,
+  rgba(180, 252, 117, 1) 75%,
+  rgba(180, 252, 117, 1) 100%);
   height: 100vh;
   padding: 50px;
 }
@@ -315,7 +313,7 @@ header {
 
 #ctas-hero a:nth-child(2) {
   color: #052350;
-  font-family: "NeulisAlt-Light";
+  font-family: 'NeulisAlt-Light';
   font-size: 20px;
   margin-left: 20px;
   text-decoration: underline;
@@ -454,29 +452,27 @@ header {
 }
 
 .degradado {
-  background: linear-gradient(
-    105deg,
-    rgba(126, 236, 245, 1) 0%,
-    rgba(126, 236, 245, 1) 25%,
-    rgba(252, 250, 115, 1) 25%,
-    rgba(252, 250, 115, 1) 50%,
-    rgba(252, 250, 115, 1) 75%,
-    rgba(203, 253, 149, 1) 75%,
-    rgba(203, 253, 149, 1) 100%
-  );
+  background: linear-gradient(105deg,
+  rgba(126, 236, 245, 1) 0%,
+  rgba(126, 236, 245, 1) 25%,
+  rgba(255, 245, 64, 1) 25%,
+  rgba(255, 245, 64, 1) 50%,
+  rgba(255, 245, 64, 1) 75%,
+  rgba(180, 252, 117, 1) 75%,
+  rgba(180, 252, 117, 1) 100%);
+
 }
 
 .loader {
-  background: linear-gradient(
-    105deg,
-    rgba(126, 236, 245, 1) 0%,
-    rgba(126, 236, 245, 1) 25%,
-    rgba(252, 250, 115, 1) 25%,
-    rgba(252, 250, 115, 1) 50%,
-    rgba(252, 250, 115, 1) 75%,
-    rgba(203, 253, 149, 1) 75%,
-    rgba(203, 253, 149, 1) 100%
-  );
+  background: linear-gradient(105deg,
+  rgba(126, 236, 245, 1) 0%,
+  rgba(126, 236, 245, 1) 25%,
+  rgba(255, 245, 64, 1) 25%,
+  rgba(255, 245, 64, 1) 50%,
+  rgba(255, 245, 64, 1) 75%,
+  rgba(180, 252, 117, 1) 75%,
+  rgba(180, 252, 117, 1) 100%);
+
   position: fixed;
   top: 0;
   height: 100vh;
@@ -493,10 +489,12 @@ header {
     background-size: 300% 100%;
     opacity: 1;
   }
+
   70% {
     opacity: 1;
     background-size: 100% 100%;
   }
+
   100% {
     background-size: 100% 100%;
     opacity: 0;
@@ -530,7 +528,7 @@ header {
 }
 
 .numero {
-  font-family: "NeulisAlt-SemiBold";
+  font-family: 'NeulisAlt-SemiBold';
 }
 
 .pregunta {
@@ -590,7 +588,7 @@ header {
 
 #mapa {
   background: #052350;
-  
+
   width: 100%;
   padding: 100px 50px;
 }
@@ -632,7 +630,7 @@ header {
 #cuestionario input:not([type="submit"]) {
   opacity: 0;
   margin-left: -10px;
-  font-family: "NeulisAlt-Light";
+  font-family: 'NeulisAlt-Light';
   color: #052350;
 }
 
@@ -640,7 +638,7 @@ header {
   border: 1px solid #052350;
   padding: 10px;
   margin: 10px 0;
-  font-family: "NeulisAlt-Light";
+  font-family: 'NeulisAlt-Light';
   font-size: 18px;
   color: #052350;
 }
@@ -771,7 +769,7 @@ input[type="checkbox"] {
   text-decoration: underline;
   color: white;
   margin: 0 30px;
-  font-family: "NeulisAlt-LightItalic";
+  font-family: 'NeulisAlt-LightItalic';
 }
 
 .animate__delay-2s {
@@ -816,7 +814,7 @@ a#facebook {
 .extras a {
   font-size: 20px;
   padding: 20px 0;
-  font-family: "NeulisAlt-Light";
+  font-family: 'NeulisAlt-Light';
   text-decoration: underline;
 }
 
@@ -827,13 +825,13 @@ a#facebook {
 }
 
 .save-button-cookie-policy {
-  font-family: "NeulisAlt-Light";
+  font-family: 'NeulisAlt-Light';
   text-transform: uppercase;
   border-radius: 0 !important;
 }
 
 .banner-button-container button {
-  font-family: "NeulisAlt-Light";
+  font-family: 'NeulisAlt-Light';
   border-radius: 0 !important;
 }
 
@@ -861,7 +859,7 @@ a#facebook {
 }
 
 .boton-rechazar-cookies {
-  font-family: "NeulisAlt-Light" !important;
+  font-family: 'NeulisAlt-Light' !important;
   text-decoration: none !important;
 }
 
@@ -898,7 +896,7 @@ a#facebook {
   font-weight: 500;
   font-size: 16px;
   color: white;
-  font-family: "NeulisAlt-Light";
+  font-family: 'NeulisAlt-Light';
 }
 
 .accordion-link img {
@@ -924,7 +922,7 @@ a#facebook {
 
 .hora {
   opacity: 0.8;
-  font-family: "NeulisAlt-LightItalic";
+  font-family: 'NeulisAlt-LightItalic';
   margin-right: 5px;
 }
 
@@ -941,41 +939,52 @@ a#facebook {
     flex-wrap: wrap;
     justify-content: flex-start;
   }
+
   .cookies-banner p {
     margin-bottom: 20px;
   }
+
   h2 {
     font-size: 30px;
   }
+
   header {
     top: 30px;
     right: 30px;
   }
+
   #hero {
     padding: 30px 40px;
     min-height: 100vh;
     height: auto;
   }
+
   #hero-contenedor {
     flex-direction: column;
   }
+
   #hero-texto a {
     font-size: 18px !important;
   }
+
   #hero-texto,
   #hero-imagen {
     width: 100%;
     padding: 0;
   }
+
   #hero-imagen {
     display: none;
   }
+
   #hero h1 {
     font-size: 30px;
   }
+
   .flecha {
     display: none;
   }
+
   .premio-movil {
     display: flex;
     width: 90%;
@@ -984,39 +993,50 @@ a#facebook {
     -moz-box-shadow: -15px 15px 0px 0px rgba(255, 255, 255, 1);
     box-shadow: -15px 15px 0px 0px rgba(255, 255, 255, 1);
   }
+
   #hero-texto p {
     font-size: 18px;
     margin: 20px 0 20px;
   }
+
   #ctas-hero {
     font-size: 18px;
     margin: 0 0 50px;
   }
+
   #ctas-hero a {
     font-size: 16px !important;
   }
+
   #lottie {
     display: none;
   }
+
   #personajes-texto {
     padding: 0 40px;
     margin-bottom: 0;
   }
+
   .personaje {
     display: none;
   }
+
   .personaje-movil {
     display: block;
   }
+
   #personajes-contenido {
     flex-direction: column;
   }
+
   #personajes {
     padding: 100px 0px;
   }
+
   .personaje p {
     display: none;
   }
+
   .pregunta-personaje-movil {
     display: inline-block;
     padding: 20px;
@@ -1024,123 +1044,155 @@ a#facebook {
     text-align: center;
     margin-top: -30px;
   }
+
   .pregunta-personaje-movil p {
     font-size: 16px;
   }
+
   .explicacion-personaje-movil {
     margin-top: -30px;
     display: inline-block;
     padding: 30px 50px 50px;
     text-align: left;
   }
+
   .boton-cerrar-movil-contenedor {
     display: flex;
     justify-content: flex-end;
   }
+
   .boton-cerrar-movil {
     width: 15px;
     display: flex;
     margin-bottom: 30px;
   }
+
   .personaje {
     text-align: center;
     padding: 40px 0;
     margin-top: 50px;
   }
+
   .contenedor-formulario {
     padding: 100px 50px;
     min-height: 100vh;
   }
+
   .ahora,
   .gracias {
     text-align: center;
   }
+
   .contenedor-preguntas-respuestas {
     flex-direction: column;
   }
+
   .contenedor-pregunta,
   .contenedor-respuesta {
     width: 100%;
   }
+
   .contenedor-pregunta {
     margin: 0;
   }
+
   .contenedor-pregunta {
     height: 150px;
   }
+
   .contenido-respuesta {
     height: 300px;
   }
+
   .campos-formulario-movil {
     flex-direction: column;
     align-items: center !important;
   }
+
   #email label {
     font-size: 15px;
   }
+
   #instagram {
     padding: 100px 40px;
   }
+
   .instagram-fila {
     flex-direction: column;
     margin: 100px 0 0 0;
   }
+
   .instagram-fila1 {
     flex-direction: column;
     margin: 70px 0 0 0;
   }
+
   #instagram-texto {
     margin: 0 auto 0px;
   }
+
   .feed-instagram {
     width: 100%;
     margin-top: 20px;
   }
+
   #logos {
     flex-direction: column;
   }
+
   #logos img {
     max-height: 35px;
     margin: 30px 0;
   }
+
   #info {
     flex-direction: column;
     height: auto;
     padding: 50px;
   }
+
   #info a {
     margin: 20px 0;
   }
+
   .cookies {
     width: 100%;
     text-align: center;
   }
+
   #mapa {
     padding: 100px 20px;
     align-items: center;
   }
+
   #mapa-texto {
     text-align: center;
   }
+
   #mapa-imagen {
     max-width: 100%;
     margin: 0 0 20px 0;
     align-items: center;
   }
+
   #mapa-imagen img {
     margin-top: 0;
   }
+
   #mapa-imagen-fechas,
   #mapa-fechas {
     flex-direction: column;
     align-items: center;
   }
+
   .accordion {
     width: 100%;
   }
+
   .hr-movil {
     display: none;
   }
+
   .extras {
     padding: 80px 30px;
   }
@@ -1212,7 +1264,7 @@ a#facebook {
   background-color: #052350 !important;
 }
 .cf3E9g p {
-  font-family: "NeulisAlt-Light" !important;
+  font-family: 'NeulisAlt-Light' !important;
   color: white !important;
 }
 .cf2Lf6 {
@@ -1226,11 +1278,11 @@ a#facebook {
 
 .cky-consent-title,
 .cky-tab-title {
-  font-family: "NeulisAlt-Light" !important;
+  font-family: 'NeulisAlt-Light' !important;
 }
 
 .cky-tab-item {
-  font-family: "NeulisAlt-LightItalic" !important;
+  font-family: 'NeulisAlt-LightItalic' !important;
 }
 
 .cky-consent-title,
@@ -1245,7 +1297,7 @@ a#facebook {
 }
 
 .cky-btn {
-  font-family: "NeulisAlt-Light" !important;
+  font-family: 'NeulisAlt-Light' !important;
 }
 
 .cky-btn-settings {
@@ -1270,7 +1322,7 @@ a#facebook {
   color: white !important;
 }
 
-.cky-modal-content > div:nth-child(2) {
+.cky-modal-content>div:nth-child(2) {
   display: none !important;
 }
 
@@ -1297,6 +1349,7 @@ a#facebook {
 
   transform: skewX(-15deg);
 }
+
 .loc-euskadi li * {
   transform: skewX(20deg) !important;
 }
@@ -1322,16 +1375,14 @@ a#facebook {
   padding-bottom: 5%;
   padding-left: 20px;
   padding-right: 20px;
-  background: linear-gradient(
-    105deg,
-    rgba(126, 236, 245, 1) 0%,
-    rgba(126, 236, 245, 1) 25%,
-    rgba(252, 250, 115, 1) 25%,
-    rgba(252, 250, 115, 1) 50%,
-    rgba(252, 250, 115, 1) 75%,
-    rgba(203, 253, 149, 1) 75%,
-    rgba(203, 253, 149, 1) 100%
-  );
+  background: linear-gradient(105deg,
+      rgba(126, 236, 245, 1) 0%,
+      rgba(126, 236, 245, 1) 25%,
+      rgba(255, 245, 64, 1) 25%,
+      rgba(255, 245, 64, 1) 50%,
+      rgba(255, 245, 64, 1) 75%,
+      rgba(180, 252, 117, 1) 75%,
+      rgba(180, 252, 117, 1) 100%);
 }
 
 #pre-footer .wrap .col2 img {
@@ -1351,12 +1402,12 @@ a#facebook {
   .loc-euskadi li {
     margin: 20px;
     flex: 1;
-    min-width: calc(50% - 40px); 
+    min-width: calc(50% - 40px);
     max-width: calc(50% - 40px);
   }
 
   .loc-euskadi li:nth-child(n + 3) {
-    min-width: calc(33.33% - 40px); 
+    min-width: calc(33.33% - 40px);
     max-width: calc(33.33% - 40px);
   }
 
@@ -1372,11 +1423,11 @@ a#facebook {
   #pre-footer .wrap .col1 {
     padding-right: 40px;
   }
-  
+
   #pre-footer .wrap .col2 {
     padding-left: 40px;
   }
-  
+
   #pre-footer .wrap .col1,
   #pre-footer .wrap .col2 {
     width: 50%;
