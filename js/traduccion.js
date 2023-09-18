@@ -1,7 +1,7 @@
 function botonEus() {
 
     $(".cuando").html(
-        '<span class="barra">/ </span>Ekoadrila bueltan da!'
+        'Ekoadrila bueltan da!'
     );
     $(".sorteo").text(
         "Zozketa: Bi lagunentzako asteburua Zeanuriko zuhaitzetako txaboletan. Parte hartzeko birziklapenaren testa egin ezazu. Zorte on!"
@@ -305,7 +305,7 @@ function botonEus() {
 function botonEs() {
 
     $(".cuando").html(
-        '<span class="barra">/ </span>¡La Ekoadrila está de vuelta!'
+        ' ¡La Ekoadrila está de vuelta!'
     );
     $(".sorteo").text(
         "Sorteo de un fin de semana para 2 en las cabañas de los árboles de Zeanuri por completar el test del reciclaje. ¡Suerte!"
