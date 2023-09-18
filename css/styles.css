@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'NeulisAlt-ExtraBold';
-  src: url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.woff') format('woff'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.woff2') format('woff2'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.eot'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.eot?#iefix') format('embedded-opentype'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.otf') format('truetype');
+  src:  url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.woff') format('woff'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.woff2') format('woff2'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.eot'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.otf') format('truetype');
 
   font-weight: normal;
   font-style: normal;
@@ -13,11 +13,11 @@
 
 @font-face {
   font-family: 'NeulisAlt-SemiBold';
-  src: url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.woff') format('woff'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.woff2') format('woff2'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.eot'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.eot?#iefix') format('embedded-opentype'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.otf') format('truetype');
+  src:  url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.woff') format('woff'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.woff2') format('woff2'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.eot'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.otf') format('truetype');
 
   font-weight: normal;
   font-style: normal;
@@ -26,11 +26,11 @@
 
 @font-face {
   font-family: "NeulisAlt-SemiBoldItalic";
-  src: url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.woff') format('woff'),
-    url('https://ekoadrila.eus/fonts//NeulisAlt-SemiBoldItalic.woff2') format('woff2'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.eot'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.otf') format('truetype');
+  src:  url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.woff') format('woff'),
+        url('https://ekoadrila.eus/fonts//NeulisAlt-SemiBoldItalic.woff2') format('woff2'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.eot'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.otf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -38,11 +38,11 @@
 
 @font-face {
   font-family: 'NeulisAlt-Light';
-  src: url('https://ekoadrila.eus/fonts/NeulisAlt-Light.woff') format('woff'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-Light.woff2') format('woff2'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-Light.eot'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-Light.eot?#iefix') format('embedded-opentype'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-Light.otf') format('truetype');
+  src:  url('https://ekoadrila.eus/fonts/NeulisAlt-Light.woff') format('woff'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-Light.woff2') format('woff2'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-Light.eot'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-Light.eot?#iefix') format('embedded-opentype'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-Light.otf') format('truetype');
 
   font-weight: normal;
   font-style: normal;
@@ -51,11 +51,11 @@
 
 @font-face {
   font-family: 'NeulisAlt-LightItalic';
-  src: url('NeulisAlt-LightItalic.woff') format('woff'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.woff2') format('woff2'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.eot'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.eot?#iefix') format('embedded-opentype'),
-    url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.otf') format('truetype');
+  src:  url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.woff') format('woff'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.woff2') format('woff2'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.eot'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.otf') format('truetype');
 
   font-weight: normal;
   font-style: normal;
