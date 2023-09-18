@@ -96,7 +96,7 @@ function botonEus() {
 
 
     $(".riscal").html(
-        '<span class="barra">/</span>Irabazi ezazu Marqués de Riscal Luxuzko hotelean asteburu bat gosaria, spa eta upeltegira bisitarekin.'
+        ' Irabazi ezazu Marqués de Riscal Luxuzko hotelean asteburu bat gosaria, spa eta upeltegira bisitarekin.'
     );
     
         $(".sorteo-riscal").text(
@@ -120,7 +120,7 @@ function botonEus() {
     $(".repasar").text("Berrikusi lehenago");
     $(".hacer-test").text("Egin testa");
     $(".antes").html(
-        '<span class="barra">/</span>Hasi aurretik, errepaso txiki bat'
+        ' Hasi aurretik, errepaso txiki bat'
     );
     $(".ya").html(
         'Dena dakit. <a href="#cuestionario">Joan zuzenean testera.</a>'
@@ -421,7 +421,7 @@ function botonEs() {
     $(".repasar").text("Repasar antes");
     $(".hacer-test").text("Hacer test");
     $(".antes").html(
-        '<span class="barra">/</span>Antes de empezar, un pequeño repaso'
+        ' Antes de empezar, un pequeño repaso'
     );
     $(".ya").html(
         'Ya me lo sé todo. <a href="#cuestionario">Ir directamente al test</a>.'
