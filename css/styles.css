@@ -1,27 +1,68 @@
 @font-face {
-  font-family: "Migha-BlackSlant";
-  src: url("../fonts/Migha-BlackSlant.otf");
+  font-family: 'NeulisAlt-ExtraBold';
+  src:url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.woff') format('woff'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.woff2') format('woff2'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.eot'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-ExtraBold.otf') format('truetype');
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: "Migha-ThinExpanded";
-  src: url("../fonts/Migha-ThinExpanded.otf");
+  font-family: 'NeulisAlt-SemiBold';
+  src:url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.woff') format('woff'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.woff2') format('woff2'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.eot'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBold.otf') format('truetype');
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: "OpenSans-Regular";
-  src: url("../fonts/OpenSans-Regular.ttf");
+  font-family: "NeulisAlt-SemiBoldItalic";
+  src: url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.woff') format('woff'),
+url('https://ekoadrila.eus/fonts//NeulisAlt-SemiBoldItalic.woff2') format('woff2'),
+url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.eot'),
+url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+url('https://ekoadrila.eus/fonts/NeulisAlt-SemiBoldItalic.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: "OpenSans-Italic";
-  src: url("../fonts/OpenSans-Italic.ttf");
+  font-family: 'NeulisAlt-Light';
+  src:url('https://ekoadrila.eus/fonts/NeulisAlt-Light.woff') format('woff'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-Light.woff2') format('woff2'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-Light.eot'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-Light.eot?#iefix') format('embedded-opentype'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-Light.otf') format('truetype');
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: "OpenSans-LightItalic";
-  src: url("../fonts/OpenSans-LightItalic.ttf");
+  font-family: 'NeulisAlt-LightItalic';
+  src:url('NeulisAlt-LightItalic.woff') format('woff'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.woff2') format('woff2'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.eot'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://ekoadrila.eus/fonts/NeulisAlt-LightItalic.otf') format('truetype');
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
+
+
 
 .eapps-link {
   display: none !important;
@@ -64,13 +105,13 @@ iframe {
 }
 
 body {
-  font-family: "OpenSans-Italic";
+  font-family: "NeulisAlt-Light";
 }
 
 h1,
 h2,
 h3 {
-  font-family: "Migha-BlackSlant";
+  font-family: "NeulisAlt-ExtraBold';
   color: #052350;
 }
 
@@ -87,7 +128,7 @@ h3 {
 }
 
 p {
-  font-family: "OpenSans-Italic";
+  font-family: "NeulisAlt-Light";
   color: #052350;
   font-size: 18px;
 }
@@ -97,24 +138,24 @@ a {
 }
 
 .bold {
-  font-family: "OpenSans-Italic";
+  font-family: "NeulisAlt-Light";
 }
 
 .light {
-  font-family: "OpenSans-LightItalic";
+  font-family: "NeulisAlt-LightItalic";
 }
 
 span.barra {
-  font-family: "Migha-ThinExpanded";
+  font-family: "NeulisAlt-SemiBold";
 }
 
 .italic {
-  font-family: "OpenSans-Italic" !important;
+  font-family: "NeulisAlt-Light" !important;
 }
 
 h3.light-italic,
 p.light-italic {
-  font-family: "OpenSans-LightItalic";
+  font-family: "NeulisAlt-LightItalic";
 }
 
 .rombo {
@@ -122,7 +163,7 @@ p.light-italic {
   background: #052350;
   padding: 10px 20px;
   color: white;
-  font-family: "OpenSans-Regular";
+  font-family: "NeulisAlt-Light";
   font-size: 16px !important;
   -webkit-transform: skew(-15deg);
   -moz-transform: skew(-15deg);
@@ -142,16 +183,20 @@ button.rombo {
   top: -3px;
 }
 
+
+
+
+
 .verde {
-  background: #cbfd95;
+  background: #B4FC75;
 }
 
 .amarillo {
-  background: #fcfa73;
+  background: #FFF540;
 }
 
 .azul {
-  background: #7eecf5;
+  background: #59FCFC;
 }
 
 .max-width {
@@ -273,7 +318,7 @@ header {
 
 #ctas-hero a:nth-child(2) {
   color: #052350;
-  font-family: "OpenSans-Italic";
+  font-family: "NeulisAlt-Light";
   font-size: 20px;
   margin-left: 20px;
   text-decoration: underline;
@@ -488,7 +533,7 @@ header {
 }
 
 .numero {
-  font-family: "Migha-ThinExpanded";
+  font-family: "NeulisAlt-SemiBold";
 }
 
 .pregunta {
@@ -590,7 +635,7 @@ header {
 #cuestionario input:not([type="submit"]) {
   opacity: 0;
   margin-left: -10px;
-  font-family: "OpenSans-Italic";
+  font-family: "NeulisAlt-Light";
   color: #052350;
 }
 
@@ -598,7 +643,7 @@ header {
   border: 1px solid #052350;
   padding: 10px;
   margin: 10px 0;
-  font-family: "OpenSans-Italic";
+  font-family: "NeulisAlt-Light";
   font-size: 18px;
   color: #052350;
 }
@@ -729,7 +774,7 @@ input[type="checkbox"] {
   text-decoration: underline;
   color: white;
   margin: 0 30px;
-  font-family: "OpenSans-LightItalic";
+  font-family: "NeulisAlt-LightItalic";
 }
 
 .animate__delay-2s {
@@ -774,7 +819,7 @@ a#facebook {
 .extras a {
   font-size: 20px;
   padding: 20px 0;
-  font-family: "OpenSans-Italic";
+  font-family: "NeulisAlt-Light";
   text-decoration: underline;
 }
 
@@ -785,13 +830,13 @@ a#facebook {
 }
 
 .save-button-cookie-policy {
-  font-family: "OpenSans-Italic";
+  font-family: "NeulisAlt-Light";
   text-transform: uppercase;
   border-radius: 0 !important;
 }
 
 .banner-button-container button {
-  font-family: "OpenSans-Italic";
+  font-family: "NeulisAlt-Light";
   border-radius: 0 !important;
 }
 
@@ -819,7 +864,7 @@ a#facebook {
 }
 
 .boton-rechazar-cookies {
-  font-family: "OpenSans-Italic" !important;
+  font-family: "NeulisAlt-Light" !important;
   text-decoration: none !important;
 }
 
@@ -856,7 +901,7 @@ a#facebook {
   font-weight: 500;
   font-size: 16px;
   color: white;
-  font-family: "OpenSans-Italic";
+  font-family: "NeulisAlt-Light";
 }
 
 .accordion-link img {
@@ -882,7 +927,7 @@ a#facebook {
 
 .hora {
   opacity: 0.8;
-  font-family: "OpenSans-LightItalic";
+  font-family: "NeulisAlt-LightItalic";
   margin-right: 5px;
 }
 
@@ -1170,11 +1215,11 @@ a#facebook {
   background-color: #052350 !important;
 }
 .cf3E9g p {
-  font-family: "OpenSans-Italic" !important;
+  font-family: "NeulisAlt-Light" !important;
   color: white !important;
 }
 .cf2Lf6 {
-  background-color: #fcfa73 !important;
+  background-color: #FFF540 !important;
 }*/
 
 .cky-consent-bar {
@@ -1184,11 +1229,11 @@ a#facebook {
 
 .cky-consent-title,
 .cky-tab-title {
-  font-family: "OpenSans-Italic" !important;
+  font-family: "NeulisAlt-Light" !important;
 }
 
 .cky-tab-item {
-  font-family: "OpenSans-LightItalic" !important;
+  font-family: "NeulisAlt-LightItalic" !important;
 }
 
 .cky-consent-title,
@@ -1203,7 +1248,7 @@ a#facebook {
 }
 
 .cky-btn {
-  font-family: "OpenSans-Italic" !important;
+  font-family: "NeulisAlt-Light" !important;
 }
 
 .cky-btn-settings {
