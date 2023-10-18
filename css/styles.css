@@ -1280,6 +1280,12 @@ a#facebook {
   background: #052350 !important;
 }
 
+
+.cky-title {
+  font-size: 15px !important; 
+}
+
+
 .cky-title,
 .cky-consent-title,
 .cky-tab-title {
@@ -1290,7 +1296,7 @@ a#facebook {
   font-family: 'NeulisAlt-LightItalic' !important;
 }
 
-.cky-title,
+p.cky-title,
 .cky-consent-title,
 .cky-bar-text {
   color: white !important;
@@ -1299,6 +1305,7 @@ a#facebook {
 
 body > div.cky-consent-container.cky-banner-bottom > div > div > div > div.cky-notice-des > p {
   color: white !important;
+  font-size: 13px !important;
 }
 
 .cky-notice-des p,
