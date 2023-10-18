@@ -1280,6 +1280,7 @@ a#facebook {
   background: #052350 !important;
 }
 
+.cky-title,
 .cky-consent-title,
 .cky-tab-title {
   font-family: 'NeulisAlt-Light' !important;
@@ -1289,12 +1290,14 @@ a#facebook {
   font-family: 'NeulisAlt-LightItalic' !important;
 }
 
+.cky-title,
 .cky-consent-title,
 .cky-bar-text {
   color: white !important;
   text-align: left !important;
 }
 
+.cky-notice-des,
 .cky-content-wrapper p,
 .cky-tab-content-item p {
   text-transform: none !important;
@@ -1321,6 +1324,7 @@ a#facebook {
   border-color: white !important;
 }
 
+.cky-btn-customize,
 .cky-btn-custom-accept {
   background: #052350 !important;
   color: white !important;
@@ -1329,6 +1333,7 @@ a#facebook {
 .cky-modal-content>div:nth-child(2) {
   display: none !important;
 }
+
 
 .sorteo-martin {
   font-size: 14px;
