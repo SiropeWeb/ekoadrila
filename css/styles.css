@@ -1297,7 +1297,11 @@ a#facebook {
   text-align: left !important;
 }
 
-.cky-notice-des,
+body > div.cky-consent-container.cky-banner-bottom > div > div > div > div.cky-notice-des > p {
+  color: white !important;
+}
+
+.cky-notice-des p,
 .cky-content-wrapper p,
 .cky-tab-content-item p {
   text-transform: none !important;
