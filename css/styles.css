@@ -1296,6 +1296,7 @@ a#facebook {
   font-family: 'NeulisAlt-LightItalic' !important;
 }
 
+
 p.cky-title,
 .cky-consent-title,
 .cky-bar-text {
@@ -1303,7 +1304,7 @@ p.cky-title,
   text-align: left !important;
 }
 
-body > div.cky-consent-container.cky-banner-bottom > div > div > div > div.cky-notice-des > p {
+.cky-consent-bar .cky-notice-des p {
   color: white !important;
   font-size: 13px !important;
 }
