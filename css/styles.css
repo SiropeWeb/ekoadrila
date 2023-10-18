@@ -1281,8 +1281,9 @@ a#facebook {
 }
 
 
-.cky-title {
+.cky-notice .cky-title {
   font-size: 15px !important; 
+  margin-bottom: 0 !important;
 }
 
 
@@ -1303,7 +1304,7 @@ p.cky-title,
   color: white !important;
   text-align: left !important;
 }
-
+.cky-notice-des *,
 .cky-consent-bar .cky-notice-des p {
   color: white !important;
   font-size: 13px !important;
