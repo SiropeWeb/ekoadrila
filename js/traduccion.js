@@ -1,12 +1,6 @@
 function botonEus() {
 
-    $(".cuando").html(
-        'Ekoadrila bueltan da!'
-    );
-    $(".sorteo").text(
-        "Zozketa: Bi lagunentzako asteburua Zeanuriko zuhaitzetako txaboletan. Parte hartzeko birziklapenaren testa egin ezazu. Zorte on!"
-    );
-    
+ 
         $(".sorteo-final").text(
         "Beti bezala, Detergenteberri, Fraskobide eta Kajagurenen eskutik! Inoiz baino gogotsuago gatoz Euskadin birziklapena sustatzeko eta pertsona guztiak kontzientziatzeko ontziei bigarren erabilera bat ematearen garrantziaz."
     );
