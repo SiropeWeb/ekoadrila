@@ -1,10 +1,7 @@
 function botonEus() {
 
  
-        $(".sorteo-final").text(
-        "Beti bezala, Detergenteberri, Fraskobide eta Kajagurenen eskutik! Inoiz baino gogotsuago gatoz Euskadin birziklapena sustatzeko eta pertsona guztiak kontzientziatzeko ontziei bigarren erabilera bat ematearen garrantziaz."
-    );
-    
+
 
     $(".sigue").text(
         "Aurten 5 kokalekutan ikusi ahal izango gaituzu Euskadin"
