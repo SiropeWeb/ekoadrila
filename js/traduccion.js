@@ -110,9 +110,6 @@ function botonEus() {
     );
     $(".repasar").text("Berrikusi lehenago");
     $(".hacer-test").text("Egin testa");
-    $(".antes").html(
-        ' Hasi aurretik, errepaso txiki bat'
-    );
     $(".ya").html(
         'Dena dakit. <a href="#cuestionario">Joan zuzenean testera.</a>'
     );
